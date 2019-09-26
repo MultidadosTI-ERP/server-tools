@@ -21,5 +21,5 @@
         'wizard/base_exception_confirm_view.xml',
         'views/base_exception_view.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

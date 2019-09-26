@@ -17,5 +17,5 @@
         'security/ir.model.access.csv',
         'views/ir_filesystem_directory.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

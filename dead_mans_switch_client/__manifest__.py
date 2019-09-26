@@ -19,5 +19,5 @@
     "demo": [
         "demo/dead_mans_switch_client_demo.yml",
     ],
-    'installable': True,
+    'installable': False,
 }

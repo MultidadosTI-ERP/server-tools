@@ -13,4 +13,5 @@
         'views/record_lifespan_view.xml',
         'data/cron.xml',
     ],
+    'installable': False,
 }

@@ -9,5 +9,5 @@
  'license': 'AGPL-3',
  'category': 'Generic Modules',
  'depends': ['base'],
- 'installable': True,
+ 'installable': False,
  }

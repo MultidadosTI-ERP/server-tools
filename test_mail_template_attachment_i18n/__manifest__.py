@@ -10,5 +10,5 @@
         'mail_template_attachment_i18n',
         'sale'
     ],
-    'installable': True,
+    'installable': False,
 }

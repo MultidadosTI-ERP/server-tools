@@ -9,7 +9,7 @@
     "author": "ABF OSIELL, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "application": False,
-    "installable": True,
+    "installable": False,
     "data": [
         "security/ir.model.access.csv",
         "views/nsca_menu.xml",
